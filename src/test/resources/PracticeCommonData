@@ -1,0 +1,6 @@
+#write data into properties file
+#Tue Nov 14 23:30:59 IST 2023
+password=admin123
+browser=chrome
+url=https\://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+username=admin
